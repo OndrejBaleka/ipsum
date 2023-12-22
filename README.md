@@ -1,5 +1,7 @@
 Tento lorem ipsum se pokouší napodovat česká slova. Používá se hlavně jako výplň pro různá odvětví. V programování se používá, když je potřeba pracovat s textem před finálním obsahem.
+
 jak kód použit?
+
 Nejdřív se vás kód zeptá na na 4 informace:
   min počet slabik ve slově:
   max počet slabik ve slově:
