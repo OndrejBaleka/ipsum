@@ -12,6 +12,7 @@ V min. a max. počtu slabik doporučuji použít menší čísla(2-5 je nejlepš
 POZOR!! min musí být menší, jak max.
 
 kolik slov ve větě: např:6(udělá větu o 6 slovech,např:eňravíhra tblže píbdaš štíkožníká ticoja.)
+
  Zadej kolik slov potrebujes: Zde zadejte kolik chcete celkem slov.
 
  Po zadání těchto prvků se kód provede.
