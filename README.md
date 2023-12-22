@@ -3,10 +3,10 @@ Tento lorem ipsum se pokouší napodovat česká slova. Používá se hlavně ja
 jak kód použit?
 
 Nejdřív se vás kód zeptá na na 4 informace:
-  min. počet slabik ve slově:
-  max. počet slabik ve slově:
-  kolik slov ve větě?
-  Zadej kolik slov potrebujes:
+  min. počet slabik ve slově:,
+  max. počet slabik ve slově:,
+  kolik slov ve větě?,
+  Zadej kolik slov potrebujes:,
 
 V min. a max. počtu slabik doporučuji použít menší čísla(2-5 je nejlepší). V delších slovech to vypadá mnohem hůř.
 POZOR!! min musí být menší, jak max.
